@@ -1,2 +1,5 @@
-# FPGA
-A repo containing FPGA projects and code
+# FPGA Synthesizer
+FPGA defined synthesizer
+
+- Audio generation
+- Audio modulation
