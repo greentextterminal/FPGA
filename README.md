@@ -1,4 +1,4 @@
-# FPGA Synthesizer
+# FPGA Synth
 FPGA defined synthesizer
 
 - Audio generation
